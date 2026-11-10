@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "repro-expo-cli-dev-server-origin-null-crash",
+    "slug": "repro-expo-cli-dev-server-origin-null-crash",
+    "web": {
+      "output": "server"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
